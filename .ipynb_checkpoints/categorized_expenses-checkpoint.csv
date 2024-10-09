@@ -1,0 +1,192 @@
+Date,Expense,Category,Amount
+2024-09-01,Rent,Housing And Utilities,1200.0
+2024-09-01,Electricity Bill,Housing And Utilities,75.5
+2024-09-01,Water Bill,Housing And Utilities,30.0
+2024-09-01,Internet Service,Housing And Utilities,45.0
+2024-09-01,Mobile Phone Plan,Housing And Utilities,35.0
+2024-09-01,Home Insurance,Housing And Utilities,58.33
+2024-09-02,Metro Ticket,Transportation,2.8
+2024-09-03,Metro Ticket,Transportation,2.8
+2024-09-04,Metro Ticket,Transportation,2.8
+2024-09-05,Metro Ticket,Transportation,2.8
+2024-09-06,Metro Ticket,Transportation,2.8
+2024-09-09,Metro Ticket,Transportation,2.8
+2024-09-10,Metro Ticket,Transportation,2.8
+2024-09-11,Metro Ticket,Transportation,2.8
+2024-09-07,Gas Station,Vehicle Maintenance,65.0
+2024-09-02,Café Noir,Food And Drinks,3.5
+2024-09-02,Work Cafeteria,Food And Drinks,8.5
+2024-09-03,Bakery Deluxe,Food And Drinks,4.75
+2024-09-03,Veggie Corner,Food And Drinks,11.5
+2024-09-04,Café Noir,Food And Drinks,3.5
+2024-09-04,Pasta Paradise,Food And Drinks,13.75
+2024-09-05,Bakery Deluxe,Food And Drinks,4.75
+2024-09-05,Sushi Express,Food And Drinks,14.5
+2024-09-06,Café Noir,Food And Drinks,3.5
+2024-09-06,Burger Bliss,Food And Drinks,10.99
+2024-09-07,Local Market,Food And Drinks,35.75
+2024-09-07,Coffee Bean,Food And Drinks,4.25
+2024-09-07,Pizza Pronto,Food And Drinks,18.5
+2024-09-08,Sunny Side Up,Food And Drinks,22.5
+2024-09-08,Ice Cream Parlor,Food And Drinks,6.5
+2024-09-09,Café Noir,Food And Drinks,3.5
+2024-09-09,Salad Bar,Food And Drinks,9.75
+2024-09-10,Bakery Deluxe,Food And Drinks,4.75
+2024-09-10,Taco Fiesta,Food And Drinks,12.5
+2024-09-11,Café Milano,Food And Drinks,3.5
+2024-09-11,Pho Delight,Food And Drinks,11.25
+2024-09-02,Supermarket Express,Groceries,22.45
+2024-09-08,Supermarket,Groceries,28.75
+2024-09-01,Gym Membership,Health And Wellness,50.0
+2024-09-01,Health Insurance,Health And Wellness,150.0
+2024-09-03,Pharmacy,Health And Wellness,15.6
+2024-09-10,Dry Cleaning,Personal Care,22.0
+2024-09-04,Bookstore,Shopping,24.99
+2024-09-06,H&M,Shopping,45.0
+2024-09-09,Office Supplies Store,Shopping,13.25
+2024-09-05,Cinema Ticket,Entertainment,12.0
+2024-09-08,Museum Entry,Entertainment,15.0
+2024-09-01,Netflix Subscription,Subscriptions And Fees,12.99
+2024-09-01,Spotify Premium,Subscriptions And Fees,9.99
+2024-09-01,Car Insurance,Subscriptions And Fees,83.33
+2024-09-12,Greek Taverna,Food And Drinks,14.75
+2024-09-13,Café Noir,Food And Drinks,3.5
+2024-09-13,Indian Spice,Food And Drinks,13.5
+2024-09-14,L'osteria Italian Restaurant,Food And Drinks,35.75
+2024-09-14,Coffee Bean,Food And Drinks,4.25
+2024-09-15,Crepe Corner,Food And Drinks,19.5
+2024-09-15,Gelato Shop,Food And Drinks,5.5
+2024-09-16,Café Romana,Food And Drinks,3.5
+2024-09-16,Sandwich Spot,Food And Drinks,8.99
+2024-09-17,Wok & Roll,Food And Drinks,12.25
+2024-09-18,Falafel House,Food And Drinks,10.5
+2024-09-19,Smoothie Bar,Food And Drinks,7.99
+2024-09-20,Ramen House,Food And Drinks,13.75
+2024-09-21,Coffee Bean,Food And Drinks,4.25
+2024-09-21,Burger Joint,Food And Drinks,16.5
+2024-09-22,Pancake Palace,Food And Drinks,21.0
+2024-09-22,Food Truck Festival,Food And Drinks,25.5
+2024-09-23,Café Noir,Food And Drinks,3.5
+2024-09-23,Veggie Delight,Food And Drinks,11.25
+2024-09-14,Farmers Market,Groceries,42.5
+2024-09-15,Supermarket Express,Groceries,31.25
+2024-09-22,Supermarket Express,Groceries,26.75
+2024-09-21,Local Market,Groceries,38.25
+2024-09-12,Concert Ticket,Entertainment,55.0
+2024-09-14,Movie Rental,Entertainment,4.99
+2024-09-15,Botanical Garden Entry,Entertainment,8.0
+2024-09-22,Zoo Admission,Entertainment,20.0
+2024-09-11,MediaMarkt Electronics Store,Shopping,89.99
+2024-09-13,Zara,Shopping,68.0
+2024-09-16,Stationery Shop,Shopping,7.5
+2024-09-17,Hardware Store,Shopping,28.5
+2024-09-18,Decathlon Sporting Store,Shopping,75.0
+2024-09-19,Idee Art Supply Shop,Shopping,32.5
+2024-09-20,Uniqlo,Shopping,55.0
+2024-09-23,Phone Accessories Shop,Shopping,19.99
+2024-09-12,Metro Ticket,Transportation,2.8
+2024-09-13,Metro Ticket,Transportation,2.8
+2024-09-16,Metro Ticket,Transportation,2.8
+2024-09-17,Metro Ticket,Transportation,2.8
+2024-09-18,Metro Ticket,Transportation,2.8
+2024-09-19,Metro Ticket,Transportation,2.8
+2024-09-20,Metro Ticket,Transportation,2.8
+2024-09-23,Metro Ticket,Transportation,2.8
+2024-09-21,Car Wash,Vehicle Maintenance,15.0
+2024-09-12,Bakery Deluxe,Bakery Purchases,4.75
+2024-09-17,Bakery Deluxe,Bakery Purchases,4.75
+2024-09-19,Bakery Deluxe,Bakery Purchases,4.75
+2024-09-24,Bakery Deluxe,Bakery Purchases,4.75
+2024-09-24,Metro Ticket,Transportation,2.8
+2024-09-25,Metro Ticket,Transportation,2.8
+2024-09-26,Metro Ticket,Transportation,2.8
+2024-09-27,Metro Ticket,Transportation,2.8
+2024-09-30,Metro Ticket,Transportation,2.8
+2024-09-02,Uber,Transportation,12.5
+2024-09-20,Bolt,Transportation,10.75
+2024-09-24,Burrito Bowl,Food And Drinks,12.75
+2024-09-25,Café Noir,Food And Drinks,3.5
+2024-09-25,Sushi Train,Food And Drinks,15.5
+2024-09-26,Bakery Deluxe,Food And Drinks,4.75
+2024-09-26,Poke Place,Food And Drinks,13.25
+2024-09-27,Café Noir,Food And Drinks,3.5
+2024-09-27,Mediterranean Grill,Food And Drinks,14.25
+2024-09-28,Coffee Bean,Food And Drinks,4.25
+2024-09-28,Steakhouse,Food And Drinks,48.5
+2024-09-29,Avocado Toast,Food And Drinks,23.5
+2024-09-29,Ice Cream Truck,Food And Drinks,4.5
+2024-09-30,Café Noir,Food And Drinks,3.5
+2024-09-30,Noodle Bar,Food And Drinks,11.75
+2024-09-09,Deliveroo,Food And Drinks,22.75
+2024-09-10,Uber Eats,Food And Drinks,18.25
+2024-09-17,Just Eat,Food And Drinks,20.5
+2024-09-29,Supermarket Express,Groceries,29.75
+2024-09-28,Farmers Market,Groceries,45.75
+2024-09-25,Bookstore,Shopping,32.99
+2024-09-27,Ikea,Shopping,65.0
+2024-09-30,Office Supplies Store,Shopping,16.5
+2024-09-01,Amazon.com,Shopping,34.99
+2024-09-03,Etsy,Shopping,28.0
+2024-09-06,eBay,Shopping,41.25
+2024-09-09,AliExpress,Shopping,15.5
+2024-09-11,Wayfair,Shopping,79.99
+2024-09-13,ASOS,Shopping,62.5
+2024-09-16,Zalando,Shopping,47.25
+2024-09-19,Wish,Shopping,9.99
+2024-09-22,Depop,Shopping,35.0
+2024-09-23,Etsy,Shopping,23.5
+2024-09-26,Theater Ticket,Entertainment,40.0
+2024-09-29,Aquarium Visit,Entertainment,25.0
+2024-09-04,Steam Games,Entertainment,19.99
+2024-09-05,Apple App Store,Entertainment,4.99
+2024-09-08,Google Play Store,Entertainment,2.99
+2024-09-15,Nintendo eShop,Entertainment,59.99
+2024-09-18,Humble Bundle,Entertainment,15.0
+2024-09-21,Bandcamp,Entertainment,12.0
+2024-09-28,Gas Station,Vehicle Maintenance,62.0
+2024-09-24,Pet Store,Vehicle Maintenance,45.0
+2024-09-14,Airbnb,Accommodation,95.0
+2024-09-12,Booking.com,Accommodation,150.0
+2024-09-24,Playstation Store,Entertainment,29.99
+2024-09-25,Ticketmaster,Entertainment,85.0
+2024-09-25,Board Game Cafe,Entertainment,15.0
+2024-09-26,Escape Room,Entertainment,25.0
+2024-09-27,Karaoke Bar,Entertainment,35.0
+2024-09-28,Bowling Alley,Entertainment,28.0
+2024-09-29,Mini Golf,Entertainment,12.0
+2024-09-30,Arcade,Entertainment,20.0
+2024-09-28,GOG.com,Entertainment,14.99
+2024-09-30,Adobe Creative Cloud,Entertainment,29.99
+2024-09-01,Local Pub,Food And Drinks,28.5
+2024-09-02,Convenience Store,Food And Drinks,7.25
+2024-09-03,Food Truck,Food And Drinks,9.5
+2024-09-05,Campus Cafe,Food And Drinks,6.75
+2024-09-02,Office Vending Machine,Food And Drinks,2.0
+2024-09-03,Street Food Vendor,Food And Drinks,7.5
+2024-09-01,Gym Protein Shake,Food And Drinks,5.5
+2024-09-24,Revolut Top-up,Subscriptions And Fees,100.0
+2024-09-27,Patreon,Subscriptions And Fees,5.0
+2024-09-12,Language Learning App,Subscriptions And Fees,9.99
+2024-09-13,Online Course,Subscriptions And Fees,49.99
+2024-09-06,Library Late Fee,Subscriptions And Fees,3.5
+2024-09-05,Barber Shop,Personal Care,30.0
+2024-09-06,Nail Salon,Personal Care,35.0
+2024-09-11,Titan watches,Personal Care,12.5
+2024-09-04,Florist,,22.0
+2024-09-09,Laundromat,,8.0
+2024-09-10,Shoe Repair,,18.0
+2024-09-12,Key Cutting,,5.0
+2024-09-13,Photo Printing,,10.0
+2024-09-14,Tailor,,45.0
+2024-09-15,Eyeglass Repair,,25.0
+2024-09-19,Vinyl Record Store,,32.0
+2024-09-20,Thrift Store,,17.5
+2024-09-21,Craft Beer Shop,,24.0
+2024-09-22,Organic Food Store,,55.0
+2024-09-23,Vape Shop,,30.0
+2024-09-24,Comic Book Store,,22.5
+2024-09-29,Vinted,,18.75
+2024-09-14,Cooking Class,Entertainment,35.0
+2024-09-01,ATM Withdrawal Fee,Subscriptions And Fees,2.5
+2024-09-03,Tire Rotation,Vehicle Maintenance,40.0
+2024-09-02,Clothing Alteration,Repairs And Maintenance,15.0
