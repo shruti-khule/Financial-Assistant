@@ -1,0 +1,209 @@
+Date,Description,Amount (EUR),Transaction Type
+2024-09-01,Salary,3500.00,Income
+2024-09-01,Rent,1200.00,Expense
+2024-09-01,Electricity Bill,75.50,Expense
+2024-09-01,Water Bill,30.00,Expense
+2024-09-01,Internet Service,45.00,Expense
+2024-09-01,Mobile Phone Plan,35.00,Expense
+2024-09-01,Gym Membership,50.00,Expense
+2024-09-01,Netflix Subscription,12.99,Expense
+2024-09-01,Home Insurance,58.33,Expense
+2024-09-01,Car Insurance,83.33,Expense
+2024-09-01,Health Insurance,150.00,Expense
+2024-09-01,Spotify Premium,9.99,Expense
+2024-09-02,Café Noir,3.50,Expense
+2024-09-02,Metro Ticket,2.80,Expense
+2024-09-02,Lunch at Work Cafeteria,8.50,Expense
+2024-09-02,Supermarket Express,22.45,Expense
+2024-09-03,Bakery Deluxe,4.75,Expense
+2024-09-03,Metro Ticket,2.80,Expense
+2024-09-03,Lunch at Veggie Corner,11.50,Expense
+2024-09-03,Pharmacy,15.60,Expense
+2024-09-04,Café Noir,3.50,Expense
+2024-09-04,Metro Ticket,2.80,Expense
+2024-09-04,Lunch at Pasta Paradise,13.75,Expense
+2024-09-04,Bookstore,24.99,Expense
+2024-09-05,Bakery Deluxe,4.75,Expense
+2024-09-05,Metro Ticket,2.80,Expense
+2024-09-05,Lunch at Sushi Express,14.50,Expense
+2024-09-05,Cinema Ticket,12.00,Expense
+2024-09-06,Café Noir,3.50,Expense
+2024-09-06,Metro Ticket,2.80,Expense
+2024-09-06,Lunch at Burger Bliss,10.99,Expense
+2024-09-06,H&M,45.00,Expense
+2024-09-07,Local Market,35.75,Expense
+2024-09-07,Coffee Bean,4.25,Expense
+2024-09-07,Pizza Pronto,18.50,Expense
+2024-09-07,Gas Station,65.00,Expense
+2024-09-08,Brunch at Sunny Side Up,22.50,Expense
+2024-09-08,Museum Entry,15.00,Expense
+2024-09-08,Ice Cream Parlor,6.50,Expense
+2024-09-08,Supermarket Express,28.75,Expense
+2024-09-09,Café Noir,3.50,Expense
+2024-09-09,Metro Ticket,2.80,Expense
+2024-09-09,Lunch at Salad Bar,9.75,Expense
+2024-09-09,Office Supplies Store,13.25,Expense
+2024-09-10,Dividend Payment,75.00,Income
+2024-09-10,Bakery Deluxe,4.75,Expense
+2024-09-10,Metro Ticket,2.80,Expense
+2024-09-10,Lunch at Taco Fiesta,12.50,Expense
+2024-09-10,Dry Cleaning,22.00,Expense
+2024-09-11,Café Noir,3.50,Expense
+2024-09-11,Metro Ticket,2.80,Expense
+2024-09-11,Lunch at Pho Delight,11.25,Expense
+2024-09-11,Electronics Store,89.99,Expense
+2024-09-12,Bakery Deluxe,4.75,Expense
+2024-09-12,Metro Ticket,2.80,Expense
+2024-09-12,Lunch at Greek Taverna,14.75,Expense
+2024-09-12,Concert Ticket,55.00,Expense
+2024-09-13,Café Noir,3.50,Expense
+2024-09-13,Metro Ticket,2.80,Expense
+2024-09-13,Lunch at Indian Spice,13.50,Expense
+2024-09-13,Zara,68.00,Expense
+2024-09-14,Farmers Market,42.50,Expense
+2024-09-14,Coffee Bean,4.25,Expense
+2024-09-14,Italian Restaurant,35.75,Expense
+2024-09-14,Movie Rental,4.99,Expense
+2024-09-15,Freelance Payment,250.00,Income
+2024-09-15,Brunch at Crepe Corner,19.50,Expense
+2024-09-15,Botanical Garden Entry,8.00,Expense
+2024-09-15,Gelato Shop,5.50,Expense
+2024-09-15,Supermarket Express,31.25,Expense
+2024-09-16,Café Noir,3.50,Expense
+2024-09-16,Metro Ticket,2.80,Expense
+2024-09-16,Lunch at Sandwich Spot,8.99,Expense
+2024-09-16,Stationery Shop,7.50,Expense
+2024-09-17,Bakery Deluxe,4.75,Expense
+2024-09-17,Metro Ticket,2.80,Expense
+2024-09-17,Lunch at Wok & Roll,12.25,Expense
+2024-09-17,Hardware Store,28.50,Expense
+2024-09-18,Café Noir,3.50,Expense
+2024-09-18,Metro Ticket,2.80,Expense
+2024-09-18,Lunch at Falafel House,10.50,Expense
+2024-09-18,Sporting Goods Store,75.00,Expense
+2024-09-19,Bakery Deluxe,4.75,Expense
+2024-09-19,Metro Ticket,2.80,Expense
+2024-09-19,Lunch at Smoothie Bar,7.99,Expense
+2024-09-19,Art Supply Shop,32.50,Expense
+2024-09-20,Interest Income,15.50,Income
+2024-09-20,Café Noir,3.50,Expense
+2024-09-20,Metro Ticket,2.80,Expense
+2024-09-20,Lunch at Ramen House,13.75,Expense
+2024-09-20,Uniqlo,55.00,Expense
+2024-09-21,Local Market,38.25,Expense
+2024-09-21,Coffee Bean,4.25,Expense
+2024-09-21,Burger Joint,16.50,Expense
+2024-09-21,Car Wash,15.00,Expense
+2024-09-22,Brunch at Pancake Palace,21.00,Expense
+2024-09-22,Zoo Admission,20.00,Expense
+2024-09-22,Food Truck Festival,25.50,Expense
+2024-09-22,Supermarket Express,26.75,Expense
+2024-09-23,Café Noir,3.50,Expense
+2024-09-23,Metro Ticket,2.80,Expense
+2024-09-23,Lunch at Veggie Delight,11.25,Expense
+2024-09-23,Phone Accessories Shop,19.99,Expense
+2024-09-24,Bakery Deluxe,4.75,Expense
+2024-09-24,Metro Ticket,2.80,Expense
+2024-09-24,Lunch at Burrito Bowl,12.75,Expense
+2024-09-24,Pet Store,45.00,Expense
+2024-09-25,Rental Income,800.00,Income
+2024-09-25,Café Noir,3.50,Expense
+2024-09-25,Metro Ticket,2.80,Expense
+2024-09-25,Lunch at Sushi Train,15.50,Expense
+2024-09-25,Bookstore,32.99,Expense
+2024-09-26,Bakery Deluxe,4.75,Expense
+2024-09-26,Metro Ticket,2.80,Expense
+2024-09-26,Lunch at Poke Place,13.25,Expense
+2024-09-26,Theater Ticket,40.00,Expense
+2024-09-27,Café Noir,3.50,Expense
+2024-09-27,Metro Ticket,2.80,Expense
+2024-09-27,Lunch at Mediterranean Grill,14.25,Expense
+2024-09-27,Home Decor Store,65.00,Expense
+2024-09-28,Farmers Market,45.75,Expense
+2024-09-28,Coffee Bean,4.25,Expense
+2024-09-28,Steakhouse,48.50,Expense
+2024-09-28,Gas Station,62.00,Expense
+2024-09-29,Brunch at Avocado Toast,23.50,Expense
+2024-09-29,Aquarium Visit,25.00,Expense
+2024-09-29,Ice Cream Truck,4.50,Expense
+2024-09-29,Supermarket Express,29.75,Expense
+2024-09-30,Stock Sale,320.00,Income
+2024-09-30,Café Noir,3.50,Expense
+2024-09-30,Metro Ticket,2.80,Expense
+2024-09-30,Lunch at Noodle Bar,11.75,Expense
+2024-09-30,Office Supplies Store,16.50,Expense
+2024-09-01,Amazon.com,34.99,Expense
+2024-09-02,Uber,12.50,Expense
+2024-09-03,Etsy,28.00,Expense
+2024-09-04,Steam Games,19.99,Expense
+2024-09-05,Apple App Store,4.99,Expense
+2024-09-06,eBay,41.25,Expense
+2024-09-07,Deliveroo,22.75,Expense
+2024-09-08,Google Play Store,2.99,Expense
+2024-09-09,AliExpress,15.50,Expense
+2024-09-10,Uber Eats,18.25,Expense
+2024-09-11,Wayfair,79.99,Expense
+2024-09-12,Booking.com,150.00,Expense
+2024-09-13,ASOS,62.50,Expense
+2024-09-14,Airbnb,95.00,Expense
+2024-09-15,Nintendo eShop,59.99,Expense
+2024-09-16,Zalando,47.25,Expense
+2024-09-17,Just Eat,20.50,Expense
+2024-09-18,Humble Bundle,15.00,Expense
+2024-09-19,Wish,9.99,Expense
+2024-09-20,Bolt,10.75,Expense
+2024-09-21,Bandcamp,12.00,Expense
+2024-09-22,Depop,35.00,Expense
+2024-09-23,Etsy,23.50,Expense
+2024-09-24,Playstation Store,29.99,Expense
+2024-09-25,Ticketmaster,85.00,Expense
+2024-09-26,Revolut Top-up,100.00,Expense
+2024-09-27,Patreon,5.00,Expense
+2024-09-28,GOG.com,14.99,Expense
+2024-09-29,Vinted,18.75,Expense
+2024-09-30,Adobe Creative Cloud,29.99,Expense
+2024-09-01,Local Pub,28.50,Expense
+2024-09-02,Convenience Store,7.25,Expense
+2024-09-03,Food Truck,9.50,Expense
+2024-09-04,Florist,22.00,Expense
+2024-09-05,Barber Shop,30.00,Expense
+2024-09-06,Nail Salon,35.00,Expense
+2024-09-07,Car Park,6.50,Expense
+2024-09-08,Bike Rental,15.00,Expense
+2024-09-09,Laundromat,8.00,Expense
+2024-09-10,Shoe Repair,18.00,Expense
+2024-09-11,Watch Battery Replacement,12.50,Expense
+2024-09-12,Key Cutting,5.00,Expense
+2024-09-13,Photo Printing,10.00,Expense
+2024-09-14,Tailor,45.00,Expense
+2024-09-15,Eyeglass Repair,25.00,Expense
+2024-09-16,Locksmith,75.00,Expense
+2024-09-17,Computer Repair,85.00,Expense
+2024-09-18,Phone Screen Replacement,120.00,Expense
+2024-09-19,Vinyl Record Store,32.00,Expense
+2024-09-20,Thrift Store,17.50,Expense
+2024-09-21,Craft Beer Shop,24.00,Expense
+2024-09-22,Organic Food Store,55.00,Expense
+2024-09-23,Vape Shop,30.00,Expense
+2024-09-24,Comic Book Store,22.50,Expense
+2024-09-25,Board Game Cafe,15.00,Expense
+2024-09-26,Escape Room,25.00,Expense
+2024-09-27,Karaoke Bar,35.00,Expense
+2024-09-28,Bowling Alley,28.00,Expense
+2024-09-29,Mini Golf,12.00,Expense
+2024-09-30,Arcade,20.00,Expense
+2024-09-01,Gym Protein Shake,5.50,Expense
+2024-09-02,Office Vending Machine,2.00,Expense
+2024-09-03,Street Food Vendor,7.50,Expense
+2024-09-04,University Bookstore,65.00,Expense
+2024-09-05,Campus Cafe,6.75,Expense
+2024-09-06,Library Late Fee,3.50,Expense
+2024-09-07,Bike Shop,42.00,Expense
+2024-09-08,Flea Market,28.00,Expense
+2024-09-09,Food Co-op,38.50,Expense
+2024-09-10,Yoga Studio,18.00,Expense
+2024-09-11,Dance Class,25.00,Expense
+2024-09-12,Language Learning App,9.99,Expense
+2024-09-13,Online Course,49.99,Expense
+2024-09-14,Cooking Class,35.00,Expense
+2024-09-15,Wine Tasting,

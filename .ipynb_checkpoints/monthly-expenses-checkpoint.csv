@@ -1,0 +1,248 @@
+Date,Description,Amount (EUR)
+2024-09-01,Rent,1200.00
+2024-09-01,Electricity Bill,75.50
+2024-09-01,Water Bill,30.00
+2024-09-01,Internet Service,45.00
+2024-09-01,Mobile Phone Plan,35.00
+2024-09-01,Gym Membership,50.00
+2024-09-01,Netflix Subscription,12.99
+2024-09-01,Home Insurance,58.33
+2024-09-01,Car Insurance,83.33
+2024-09-01,Health Insurance,150.00
+2024-09-01,Spotify Premium,9.99
+2024-09-02,Café Noir,3.50
+2024-09-02,Metro Ticket,2.80
+2024-09-02,Work Cafeteria,8.50
+2024-09-02,Supermarket Express,22.45
+2024-09-03,Bakery Deluxe,4.75
+2024-09-03,Metro Ticket,2.80
+2024-09-03,Veggie Corner,11.50
+2024-09-03,Pharmacy,15.60
+2024-09-04,Café Noir,3.50
+2024-09-04,Metro Ticket,2.80
+2024-09-04,Pasta Paradise,13.75
+2024-09-04,Bookstore,24.99
+2024-09-05,Bakery Deluxe,4.75
+2024-09-05,Metro Ticket,2.80
+2024-09-05,Sushi Express,14.50
+2024-09-05,Cinema Ticket,12.00
+2024-09-06,Café Noir,3.50
+2024-09-06,Metro Ticket,2.80
+2024-09-06,Burger Bliss,10.99
+2024-09-06,H&M,45.00
+2024-09-07,Local Market,35.75
+2024-09-07,Coffee Bean,4.25
+2024-09-07,Pizza Pronto,18.50
+2024-09-07,Gas Station,65.00
+2024-09-08,Sunny Side Up,22.50
+2024-09-08,Museum Entry,15.00
+2024-09-08,Ice Cream Parlor,6.50
+2024-09-08,Supermarket,28.75
+2024-09-09,Café Noir,3.50
+2024-09-09,Metro Ticket,2.80
+2024-09-09,Salad Bar,9.75
+2024-09-09,Office Supplies Store,13.25
+2024-09-10,Bakery Deluxe,4.75
+2024-09-10,Metro Ticket,2.80
+2024-09-10,Taco Fiesta,12.50
+2024-09-10,Dry Cleaning,22.00
+2024-09-11,Café Milano,3.50
+2024-09-11,Metro Ticket,2.80
+2024-09-11,Pho Delight,11.25
+2024-09-11,MediaMarkt Electronics Store,89.99
+2024-09-12,Bakery Deluxe,4.75
+2024-09-12,Metro Ticket,2.80
+2024-09-12,Greek Taverna,14.75
+2024-09-12,Concert Ticket,55.00
+2024-09-13,Café Noir,3.50
+2024-09-13,Metro Ticket,2.80
+2024-09-13,Indian Spice,13.50
+2024-09-13,Zara,68.00
+2024-09-14,Farmers Market,42.50
+2024-09-14,Coffee Bean,4.25
+2024-09-14,L'osteria Italian Restaurant,35.75
+2024-09-14,Movie Rental,4.99
+2024-09-15,Crepe Corner,19.50
+2024-09-15,Botanical Garden Entry,8.00
+2024-09-15,Gelato Shop,5.50
+2024-09-15,Supermarket Express,31.25
+2024-09-16,Café Romana,3.50
+2024-09-16,Metro Ticket,2.80
+2024-09-16,Sandwich Spot,8.99
+2024-09-16,Stationery Shop,7.50
+2024-09-17,Bakery Deluxe,4.75
+2024-09-17,Metro Ticket,2.80
+2024-09-17,Wok & Roll,12.25
+2024-09-17,Hardware Store,28.50
+2024-09-18,Café Noir,3.50
+2024-09-18,Metro Ticket,2.80
+2024-09-18,Falafel House,10.50
+2024-09-18,Decathlon Sporting Store,75.00
+2024-09-19,Bakery Deluxe,4.75
+2024-09-19,Metro Ticket,2.80
+2024-09-19,Smoothie Bar,7.99
+2024-09-19,Idee Art Supply Shop,32.50
+2024-09-20,Café Noir,3.50
+2024-09-20,Metro Ticket,2.80
+2024-09-20,Ramen House,13.75
+2024-09-20,Uniqlo,55.00
+2024-09-21,Local Market,38.25
+2024-09-21,Coffee Bean,4.25
+2024-09-21,Burger Joint,16.50
+2024-09-21,Car Wash,15.00
+2024-09-22,Pancake Palace,21.00
+2024-09-22,Zoo Admission,20.00
+2024-09-22,Food Truck Festival,25.50
+2024-09-22,Supermarket Express,26.75
+2024-09-23,Café Noir,3.50
+2024-09-23,Metro Ticket,2.80
+2024-09-23,Veggie Delight,11.25
+2024-09-23,Phone Accessories Shop,19.99
+2024-09-24,Bakery Deluxe,4.75
+2024-09-24,Metro Ticket,2.80
+2024-09-24,Burrito Bowl,12.75
+2024-09-24,Pet Store,45.00
+2024-09-25,Café Noir,3.50
+2024-09-25,Metro Ticket,2.80
+2024-09-25,Sushi Train,15.50
+2024-09-25,Bookstore,32.99
+2024-09-26,Bakery Deluxe,4.75
+2024-09-26,Metro Ticket,2.80
+2024-09-26,Poke Place,13.25
+2024-09-26,Theater Ticket,40.00
+2024-09-27,Café Noir,3.50
+2024-09-27,Metro Ticket,2.80
+2024-09-27,Mediterranean Grill,14.25
+2024-09-27,Ikea,65.00
+2024-09-28,Farmers Market,45.75
+2024-09-28,Coffee Bean,4.25
+2024-09-28,Steakhouse,48.50
+2024-09-28,Gas Station,62.00
+2024-09-29,Avocado Toast,23.50
+2024-09-29,Aquarium Visit,25.00
+2024-09-29,Ice Cream Truck,4.50
+2024-09-29,Supermarket Express,29.75
+2024-09-30,Café Noir,3.50
+2024-09-30,Metro Ticket,2.80
+2024-09-30,Noodle Bar,11.75
+2024-09-30,Office Supplies Store,16.50
+2024-09-01,Amazon.com,34.99
+2024-09-02,Uber,12.50
+2024-09-03,Etsy,28.00
+2024-09-04,Steam Games,19.99
+2024-09-05,Apple App Store,4.99
+2024-09-06,eBay,41.25
+2024-09-07,Deliveroo,22.75
+2024-09-08,Google Play Store,2.99
+2024-09-09,AliExpress,15.50
+2024-09-10,Uber Eats,18.25
+2024-09-11,Wayfair,79.99
+2024-09-12,Booking.com,150.00
+2024-09-13,ASOS,62.50
+2024-09-14,Airbnb,95.00
+2024-09-15,Nintendo eShop,59.99
+2024-09-16,Zalando,47.25
+2024-09-17,Just Eat,20.50
+2024-09-18,Humble Bundle,15.00
+2024-09-19,Wish,9.99
+2024-09-20,Bolt,10.75
+2024-09-21,Bandcamp,12.00
+2024-09-22,Depop,35.00
+2024-09-23,Etsy,23.50
+2024-09-24,Playstation Store,29.99
+2024-09-25,Ticketmaster,85.00
+2024-09-26,Revolut Top-up,100.00
+2024-09-27,Patreon,5.00
+2024-09-28,GOG.com,14.99
+2024-09-29,Vinted,18.75
+2024-09-30,Adobe Creative Cloud,29.99
+2024-09-01,Local Pub,28.50
+2024-09-02,Convenience Store,7.25
+2024-09-03,Food Truck,9.50
+2024-09-04,Florist,22.00
+2024-09-05,Barber Shop,30.00
+2024-09-06,Nail Salon,35.00
+2024-09-07,Car Park,6.50
+2024-09-08,Bike Rental,15.00
+2024-09-09,Laundromat,8.00
+2024-09-10,Shoe Repair,18.00
+2024-09-11,Titan watches,12.50
+2024-09-12,Key Cutting,5.00
+2024-09-13,Photo Printing,10.00
+2024-09-14,Tailor,45.00
+2024-09-15,Eyeglass Repair,25.00
+2024-09-16,Locksmith,75.00
+2024-09-17,Computer Repair,85.00
+2024-09-18,Phone Screen Replacement,120.00
+2024-09-19,Vinyl Record Store,32.00
+2024-09-20,Thrift Store,17.50
+2024-09-21,Craft Beer Shop,24.00
+2024-09-22,Organic Food Store,55.00
+2024-09-23,Vape Shop,30.00
+2024-09-24,Comic Book Store,22.50
+2024-09-25,Board Game Cafe,15.00
+2024-09-26,Escape Room,25.00
+2024-09-27,Karaoke Bar,35.00
+2024-09-28,Bowling Alley,28.00
+2024-09-29,Mini Golf,12.00
+2024-09-30,Arcade,20.00
+2024-09-01,Gym Protein Shake,5.50
+2024-09-02,Office Vending Machine,2.00
+2024-09-03,Street Food Vendor,7.50
+2024-09-04,University Bookstore,65.00
+2024-09-05,Campus Cafe,6.75
+2024-09-06,Library Late Fee,3.50
+2024-09-07,Bike Shop,42.00
+2024-09-08,Flea Market,28.00
+2024-09-09,Food Co-op,38.50
+2024-09-10,Yoga Studio,18.00
+2024-09-11,Dance Class,25.00
+2024-09-12,Language Learning App,9.99
+2024-09-13,Online Course,49.99
+2024-09-14,Cooking Class,35.00
+2024-09-15,Wine Tasting,30.00
+2024-09-16,Pottery Workshop,40.00
+2024-09-17,Rock Climbing Gym,22.00
+2024-09-18,Surf Shop Rental,35.00
+2024-09-19,Ski Pass,65.00
+2024-09-20,Camping Equipment Rental,50.00
+2024-09-21,Kayak Rental,40.00
+2024-09-22,Fishing License,25.00
+2024-09-23,Golf Course Green Fee,45.00
+2024-09-24,Tennis Court Rental,15.00
+2024-09-25,Swimming Pool Entry,8.00
+2024-09-26,Gym Day Pass,12.00
+2024-09-27,Laser Tag,18.00
+2024-09-28,Trampoline Park,20.00
+2024-09-29,Go-Kart Track,30.00
+2024-09-30,Paintball,35.00
+2024-09-01,ATM Withdrawal Fee,2.50
+2024-09-05,Bank Transfer Fee,1.00
+2024-09-10,Foreign Transaction Fee,3.75
+2024-09-15,Credit Card Annual Fee,59.00
+2024-09-20,Overdraft Fee,35.00
+2024-09-25,Safe Deposit Box Rental,25.00
+2024-09-30,Investment Management Fee,50.00
+2024-09-02,Clothing Alteration,15.00
+2024-09-07,Watch Strap Replacement,20.00
+2024-09-12,Shoe Shine,8.00
+2024-09-17,Suit Dry Cleaning,35.00
+2024-09-22,Leather Goods Repair,28.00
+2024-09-27,Jewelry Cleaning,12.00
+2024-09-03,Tire Rotation,40.00
+2024-09-08,Oil Change,55.00
+2024-09-13,Car Detailing,80.00
+2024-09-18,Windshield Wiper Replacement,25.00
+2024-09-23,Battery Replacement,120.00
+2024-09-28,Brake Pad Replacement,150.00
+2024-09-04,Antivirus Software Renewal,39.99
+2024-09-09,Cloud Storage Subscription,9.99
+2024-09-14,Domain Name Renewal,14.99
+2024-09-19,Website Hosting Fee,12.99
+2024-09-24,VPN Service,8.99
+2024-09-29,Password Manager Subscription,3.99
+2024-09-05,Plant Nursery,32.00
+2024-09-10,Garden Tools Rental,25.00
+2024-09-15,Lawn Mowing Service,40.00
+2024-09-20,Tree Trimming Service,150.00
+2024-09-25,Pest Control Service,85.00

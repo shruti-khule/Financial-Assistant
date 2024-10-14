@@ -1,0 +1,259 @@
+Transaction_ID,Description,Category
+0,Salary,Salary
+1,Rent,Housing and Utilities
+2,Electricity Bill,Housing and Utilities
+3,Water Bill,Housing and Utilities
+4,Internet Service,Housing and Utilities
+9,Home Insurance,Housing and Utilities
+13,Metro Ticket,Transportation
+17,Metro Ticket,Transportation
+21,Metro Ticket,Transportation
+12,Café Noir,Food and Drinks
+14,Lunch at Work Cafeteria,Food and Drinks
+18,Lunch at Veggie Corner,Food and Drinks
+20,Café Noir,Food and Drinks
+22,Lunch at Pasta Paradise,Food and Drinks
+15,Supermarket Express,Groceries
+23,Bakery Deluxe,Groceries
+24,Bakery Deluxe,Groceries
+19,Pharmacy,Health and Wellness
+6,Gym Membership,Subscriptions and Fees
+7,Netflix Subscription,Subscriptions and Fees
+11,Spotify Premium,Subscriptions and Fees
+25,Metro Ticket,Transportation
+29,Metro Ticket,Transportation
+41,Metro Ticket,Transportation
+46,Metro Ticket,Transportation
+26,Lunch at Sushi Express,Food and Drinks
+30,Lunch at Burger Bliss,Food and Drinks
+33,Coffee Bean,Food and Drinks
+34,Pizza Pronto,Food and Drinks
+36,Brunch at Sunny Side Up,Food and Drinks
+38,Ice Cream Parlor,Food and Drinks
+42,Lunch at Salad Bar,Food and Drinks
+47,Lunch at Taco Fiesta,Food and Drinks
+45,Bakery Deluxe,Food and Drinks
+28,Lunch at Sushi Express,Food and Drinks
+40,Café Noir,Food and Drinks
+49,Café Noir,Food and Drinks
+27,Cinema Ticket,Entertainment
+37,Museum Entry,Entertainment
+31,H&M,Shopping
+43,Office Supplies Store,Shopping
+39,Supermarket Express,Groceries
+32,Local Market,Groceries
+44,Dividend Payment,Investments
+51,Lunch at Pho Delight,Food and Drinks
+55,Lunch at Greek Taverna,Food and Drinks
+59,Lunch at Indian Spice,Food and Drinks
+62,Coffee Bean,Food and Drinks
+66,Brunch at Crepe Corner,Food and Drinks
+68,Gelato Shop,Food and Drinks
+70,Café Noir,Food and Drinks
+72,Lunch at Sandwich Spot,Food and Drinks
+53,Bakery Deluxe,Food and Drinks
+74,Bakery Deluxe,Food and Drinks
+57,Café Noir,Food and Drinks
+61,Farmers Market,Food and Drinks
+56,Concert Ticket,Entertainment
+64,Movie Rental,Entertainment
+67,Botanical Garden Entry,Entertainment
+52,Electronics Store,Shopping
+60,Zara,Shopping
+73,Stationery Shop,Shopping
+50,Metro Ticket,Transportation
+54,Metro Ticket,Transportation
+58,Metro Ticket,Transportation
+71,Metro Ticket,Transportation
+65,Freelance Payment,Salary
+75,Metro Ticket,Transportation
+79,Metro Ticket,Transportation
+83,Metro Ticket,Transportation
+88,Metro Ticket,Transportation
+76,Lunch at Wok & Roll,Food and Drinks
+80,Lunch at Falafel House,Food and Drinks
+82,Bakery Deluxe,Food and Drinks
+84,Lunch at Smoothie Bar,Food and Drinks
+87,Café Noir,Food and Drinks
+89,Lunch at Ramen House,Food and Drinks
+90,Uniqlo,Food and Drinks
+91,Local Market,Food and Drinks
+92,Coffee Bean,Food and Drinks
+93,Burger Joint,Food and Drinks
+95,Brunch at Pancake Palace,Food and Drinks
+98,Supermarket Express,Food and Drinks
+99,Café Noir,Food and Drinks
+77,Hardware Store,Shopping
+81,Sporting Goods Store,Shopping
+85,Art Supply Shop,Shopping
+94,Car Wash,Vehicle Maintenance
+96,Zoo Admission,Entertainment
+97,Food Truck Festival,Entertainment
+86,Interest Income,Investments
+100,Metro Ticket,Transportation
+104,Metro Ticket,Transportation
+109,Metro Ticket,Transportation
+113,Metro Ticket,Transportation
+117,Metro Ticket,Transportation
+123,Gas Station,Vehicle Maintenance
+101,Lunch at Veggie Delight,Food and Drinks
+105,Lunch at Burrito Bowl,Food and Drinks
+110,Lunch at Sushi Train,Food and Drinks
+114,Lunch at Poke Place,Food and Drinks
+118,Lunch at Mediterranean Grill,Food and Drinks
+122,Steakhouse,Food and Drinks
+124,Brunch at Avocado Toast,Food and Drinks
+116,Café Noir,Food and Drinks
+108,Café Noir,Food and Drinks
+121,Coffee Bean,Food and Drinks
+103,Bakery Deluxe,Groceries
+112,Bakery Deluxe,Groceries
+120,Farmers Market,Groceries
+102,Phone Accessories Shop,Shopping
+111,Bookstore,Shopping
+119,Home Decor Store,Shopping
+106,Pet Store,Shopping
+115,Theater Ticket,Entertainment
+107,Rental Income,Miscellaneous Income
+125,Aquarium Visit,Entertainment
+136,Steam Games,Entertainment
+137,Apple App Store,Entertainment
+140,Google Play Store,Entertainment
+147,Nintendo eShop,Entertainment
+126,Ice Cream Truck,Food and Drinks
+129,Café Noir,Food and Drinks
+131,Lunch at Noodle Bar,Food and Drinks
+127,Supermarket Express,Groceries
+133,Amazon.com,Shopping
+135,Etsy,Shopping
+138,eBay,Shopping
+141,AliExpress,Shopping
+143,Wayfair,Shopping
+145,ASOS,Shopping
+148,Zalando,Shopping
+144,Booking.com,Entertainment
+146,Airbnb,Entertainment
+130,Metro Ticket,Transportation
+134,Uber,Transportation
+139,Deliveroo,Food and Drinks
+142,Uber Eats,Food and Drinks
+149,Just Eat,Food and Drinks
+128,Stock Sale,Investments
+150,Humble Bundle,Shopping
+151,Wish,Shopping
+152,Bolt,Shopping
+153,Bandcamp,Shopping
+154,Depop,Shopping
+155,Etsy,Shopping
+156,Playstation Store,Shopping
+160,GOG.com,Shopping
+161,Vinted,Shopping
+157,Ticketmaster,Shopping
+156,Playstation Store,Entertainment
+157,Ticketmaster,Entertainment
+153,Bandcamp,Entertainment
+160,GOG.com,Entertainment
+163,Local Pub,Food and Drinks
+164,Convenience Store,Food and Drinks
+165,Food Truck,Food and Drinks
+167,Barber Shop,Personal Care
+168,Nail Salon,Personal Care
+169,Car Park,Transportation
+170,Bike Rental,Transportation
+162,Adobe Creative Cloud,Subscriptions and Fees
+158,Revolut Top-up,Subscriptions and Fees
+159,Patreon,Subscriptions and Fees
+172,Shoe Repair,Miscellaneous Expense
+173,Watch Battery Replacement,Miscellaneous Expense
+174,Key Cutting,Miscellaneous Expense
+166,Florist,Miscellaneous Expense
+174,(Not Provided in given data),Housing and Utilities
+175,Photo Printing,Miscellaneous Expense
+176,Tailor,Miscellaneous Expense
+183,Craft Beer Shop,Miscellaneous Expense
+187,Board Game Cafe,Miscellaneous Expense
+188,Escape Room,Miscellaneous Expense
+189,Karaoke Bar,Miscellaneous Expense
+190,Bowling Alley,Miscellaneous Expense
+191,Mini Golf,Miscellaneous Expense
+192,Arcade,Miscellaneous Expense
+198,Library Late Fee,Miscellaneous Expense
+176,Tailor,Personal Care
+177,Eyeglass Repair,Repairs and Maintenance
+178,Locksmith,Repairs and Maintenance
+181,Computer Repair,Repairs and Maintenance
+180,Phone Screen Replacement,Repairs and Maintenance
+182,"(Does not fit, set as shopping, ignore this)",Repairs and Maintenance
+180,"(Set as Repairs, see below)",Repairs and Maintenance
+181,Vinyl Record Store,Shopping
+182,Thrift Store,Shopping
+185,Vape Shop,Shopping
+186,Comic Book Store,Shopping
+196,University Bookstore,Shopping
+199,Bike Shop,Shopping
+180,"(Phon screen would set as repairs, Here we set 183, 187-193)",Entertainment
+187,Board Game Cafe,Entertainment
+188,Escape Room,Entertainment
+189,Karaoke Bar,Entertainment
+190,Bowling Alley,Entertainment
+191,Mini Golf,Entertainment
+192,Arcade,Entertainment
+193,"Gym Protein Shake (Would fit food, However given a drink, we see this more as Entertainment than Food due to Name 'Shake')",Entertainment
+202,Yoga Studio - Expense,Entertainment
+203,Dance Class - Expense,Entertainment
+205,Online Course - Expense,Entertainment
+206,Cooking Class - Expense,Entertainment
+207,Wine Tasting - Expense,Entertainment
+208,Pottery Workshop - Expense,Entertainment
+210,Karaoke Bar - Expense,Entertainment
+211,Rock Climbing Gym - Expense,Entertainment
+212,Surf Shop Rental - Expense,Entertainment
+213,Ski Pass - Expense,Entertainment
+214,Camping Equipment Rental - Expense,Entertainment
+215,Kayak Rental - Expense,Entertainment
+216,Fishing License - Expense,Entertainment
+217,Golf Course Green Fee - Expense,Entertainment
+218,Tennis Court Rental - Expense,Entertainment
+219,Swimming Pool Entry - Expense,Entertainment
+220,Gym Day Pass - Expense,Entertainment
+221,Laser Tag - Expense,Entertainment
+222,Trampoline Park - Expense,Entertainment
+224,Go-Kart Track - Expense,Entertainment
+200,Flea Market - Expense,Shopping
+201,Food Co-op - Expense,Food and Drinks
+223,Freelancing - Income,Miscellaneous Income
+209,Stock Sale - Income,Investments
+226,ATM Withdrawal Fee,Subscriptions and Fees
+227,Bank Transfer Fee,Subscriptions and Fees
+229,Credit Card Annual Fee,Subscriptions and Fees
+230,Overdraft Fee,Subscriptions and Fees
+232,Investment Management Fee,Subscriptions and Fees
+246,Antivirus Software Renewal,Subscriptions and Fees
+247,Cloud Storage Subscription,Subscriptions and Fees
+248,Domain Name Renewal,Subscriptions and Fees
+249,Website Hosting Fee,Subscriptions and Fees
+240,Tire Rotation,Vehicle Maintenance
+241,Oil Change,Vehicle Maintenance
+242,Car Detailing,Vehicle Maintenance
+243,Windshield Wiper Replacement,Vehicle Maintenance
+244,Battery Replacement,Vehicle Maintenance
+245,Brake Pad Replacement,Vehicle Maintenance
+236,Suit Dry Cleaning,Personal Care
+237,Leather Goods Repair,Repairs and Maintenance
+225,Paintball,Miscellaneous Expense
+231,Safe Deposit Box Rental,Miscellaneous Expense
+233,Clothing Alteration,Miscellaneous Expense
+234,Watch Strap Replacement,Miscellaneous Expense
+235,Shoe Shine,Miscellaneous Expense
+238,Jewelry Cleaning,Miscellaneous Expense
+228,Foreign Transaction Fee,Miscellaneous Expense
+239,Rental Income,Miscellaneous Income
+257,GPT Subscription,Entertainment
+252,Plant Nursery,Shopping
+258,Cafe Mulino,Shopping
+256,Pest Control Service,Repairs and Maintenance
+254,Lawn Mowing Service,Repairs and Maintenance
+255,Tree Trimming Service,Repairs and Maintenance
+253,Garden Tools Rental,Repairs and Maintenance
+250,VPN Service,Subscriptions and Fees
+251,Password Manager Subscription,Subscriptions and Fees

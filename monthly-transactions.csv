@@ -1,0 +1,260 @@
+Date,Description,Amount (EUR),Transaction Type
+9/1/24,Salary,3500,Income
+9/1/24,Rent,1200,Expense
+9/1/24,Electricity Bill,75.5,Expense
+9/1/24,Water Bill,30,Expense
+9/1/24,Internet Service,45,Expense
+9/1/24,Mobile Phone Plan,35,Expense
+9/1/24,Gym Membership,50,Expense
+9/1/24,Netflix Subscription,12.99,Expense
+9/1/24,Home Insurance,58.33,Expense
+9/1/24,Car Insurance,83.33,Expense
+9/1/24,Health Insurance,150,Expense
+9/1/24,Spotify Premium,9.99,Expense
+9/2/24,Café Noir,3.5,Expense
+9/2/24,Metro Ticket,2.8,Expense
+9/2/24,Lunch at Work Cafeteria,8.5,Expense
+9/2/24,Supermarket Express,22.45,Expense
+9/3/24,Bakery Deluxe,4.75,Expense
+9/3/24,Metro Ticket,2.8,Expense
+9/3/24,Lunch at Veggie Corner,11.5,Expense
+9/3/24,Pharmacy,15.6,Expense
+9/4/24,Café Noir,3.5,Expense
+9/4/24,Metro Ticket,2.8,Expense
+9/4/24,Lunch at Pasta Paradise,13.75,Expense
+9/4/24,Bookstore,24.99,Expense
+9/5/24,Bakery Deluxe,4.75,Expense
+9/5/24,Metro Ticket,2.8,Expense
+9/5/24,Lunch at Sushi Express,14.5,Expense
+9/5/24,Cinema Ticket,12,Expense
+9/6/24,Café Noir,3.5,Expense
+9/6/24,Metro Ticket,2.8,Expense
+9/6/24,Lunch at Burger Bliss,10.99,Expense
+9/6/24,H&M,45,Expense
+9/7/24,Local Market,35.75,Expense
+9/7/24,Coffee Bean,4.25,Expense
+9/7/24,Pizza Pronto,18.5,Expense
+9/7/24,Gas Station,65,Expense
+9/8/24,Brunch at Sunny Side Up,22.5,Expense
+9/8/24,Museum Entry,15,Expense
+9/8/24,Ice Cream Parlor,6.5,Expense
+9/8/24,Supermarket Express,28.75,Expense
+9/9/24,Café Noir,3.5,Expense
+9/9/24,Metro Ticket,2.8,Expense
+9/9/24,Lunch at Salad Bar,9.75,Expense
+9/9/24,Office Supplies Store,13.25,Expense
+9/10/24,Dividend Payment,275,Income
+9/10/24,Bakery Deluxe,4.75,Expense
+9/10/24,Metro Ticket,2.8,Expense
+9/10/24,Lunch at Taco Fiesta,12.5,Expense
+9/10/24,Dry Cleaning,22,Expense
+9/11/24,Café Noir,3.5,Expense
+9/11/24,Metro Ticket,2.8,Expense
+9/11/24,Lunch at Pho Delight,11.25,Expense
+9/11/24,Electronics Store,89.99,Expense
+9/12/24,Bakery Deluxe,4.75,Expense
+9/12/24,Metro Ticket,2.8,Expense
+9/12/24,Lunch at Greek Taverna,14.75,Expense
+9/12/24,Concert Ticket,55,Expense
+9/13/24,Café Noir,3.5,Expense
+9/13/24,Metro Ticket,2.8,Expense
+9/13/24,Lunch at Indian Spice,13.5,Expense
+9/13/24,Zara,68,Expense
+9/14/24,Farmers Market,42.5,Expense
+9/14/24,Coffee Bean,4.25,Expense
+9/14/24,Italian Restaurant,35.75,Expense
+9/14/24,Movie Rental,4.99,Expense
+9/15/24,Freelance Payment,250,Income
+9/15/24,Brunch at Crepe Corner,19.5,Expense
+9/15/24,Botanical Garden Entry,8,Expense
+9/15/24,Gelato Shop,5.5,Expense
+9/15/24,Supermarket Express,31.25,Expense
+9/16/24,Café Noir,3.5,Expense
+9/16/24,Metro Ticket,2.8,Expense
+9/16/24,Lunch at Sandwich Spot,8.99,Expense
+9/16/24,Stationery Shop,7.5,Expense
+9/17/24,Bakery Deluxe,4.75,Expense
+9/17/24,Metro Ticket,2.8,Expense
+9/17/24,Lunch at Wok & Roll,12.25,Expense
+9/17/24,Hardware Store,28.5,Expense
+9/18/24,Café Noir,3.5,Expense
+9/18/24,Metro Ticket,2.8,Expense
+9/18/24,Lunch at Falafel House,10.5,Expense
+9/18/24,Sporting Goods Store,75,Expense
+9/19/24,Bakery Deluxe,4.75,Expense
+9/19/24,Metro Ticket,2.8,Expense
+9/19/24,Lunch at Smoothie Bar,7.99,Expense
+9/19/24,Art Supply Shop,32.5,Expense
+9/20/24,Interest Income,15.5,Income
+9/20/24,Café Noir,3.5,Expense
+9/20/24,Metro Ticket,2.8,Expense
+9/20/24,Lunch at Ramen House,13.75,Expense
+9/20/24,Uniqlo,55,Expense
+9/21/24,Local Market,38.25,Expense
+9/21/24,Coffee Bean,4.25,Expense
+9/21/24,Burger Joint,16.5,Expense
+9/21/24,Car Wash,15,Expense
+9/22/24,Brunch at Pancake Palace,21,Expense
+9/22/24,Zoo Admission,20,Expense
+9/22/24,Food Truck Festival,25.5,Expense
+9/22/24,Supermarket Express,26.75,Expense
+9/23/24,Café Noir,3.5,Expense
+9/23/24,Metro Ticket,2.8,Expense
+9/23/24,Lunch at Veggie Delight,11.25,Expense
+9/23/24,Phone Accessories Shop,19.99,Expense
+9/24/24,Bakery Deluxe,4.75,Expense
+9/24/24,Metro Ticket,2.8,Expense
+9/24/24,Lunch at Burrito Bowl,12.75,Expense
+9/24/24,Pet Store,45,Expense
+9/25/24,Rental Income,800,Income
+9/25/24,Café Noir,3.5,Expense
+9/25/24,Metro Ticket,2.8,Expense
+9/25/24,Lunch at Sushi Train,15.5,Expense
+9/25/24,Bookstore,32.99,Expense
+9/26/24,Bakery Deluxe,4.75,Expense
+9/26/24,Metro Ticket,2.8,Expense
+9/26/24,Lunch at Poke Place,13.25,Expense
+9/26/24,Theater Ticket,40,Expense
+9/27/24,Café Noir,3.5,Expense
+9/27/24,Metro Ticket,2.8,Expense
+9/27/24,Lunch at Mediterranean Grill,14.25,Expense
+9/27/24,Home Decor Store,65,Expense
+9/28/24,Farmers Market,45.75,Expense
+9/28/24,Coffee Bean,4.25,Expense
+9/28/24,Steakhouse,48.5,Expense
+9/28/24,Gas Station,62,Expense
+9/29/24,Brunch at Avocado Toast,23.5,Expense
+9/29/24,Aquarium Visit,25,Expense
+9/29/24,Ice Cream Truck,4.5,Expense
+9/29/24,Supermarket Express,29.75,Expense
+9/30/24,Stock Sale,320,Income
+9/30/24,Café Noir,3.5,Expense
+9/30/24,Metro Ticket,2.8,Expense
+9/30/24,Lunch at Noodle Bar,11.75,Expense
+9/30/24,Office Supplies Store,16.5,Expense
+9/1/24,Amazon.com,34.99,Expense
+9/2/24,Uber,12.5,Expense
+9/3/24,Etsy,28,Expense
+9/4/24,Steam Games,19.99,Expense
+9/5/24,Apple App Store,4.99,Expense
+9/6/24,eBay,41.25,Expense
+9/7/24,Deliveroo,22.75,Expense
+9/8/24,Google Play Store,2.99,Expense
+9/9/24,AliExpress,15.5,Expense
+9/10/24,Uber Eats,18.25,Expense
+9/11/24,Wayfair,79.99,Expense
+9/12/24,Booking.com,150,Expense
+9/13/24,ASOS,62.5,Expense
+9/14/24,Airbnb,95,Expense
+9/15/24,Nintendo eShop,59.99,Expense
+9/16/24,Zalando,47.25,Expense
+9/17/24,Just Eat,20.5,Expense
+9/18/24,Humble Bundle,15,Expense
+9/19/24,Wish,9.99,Expense
+9/20/24,Bolt,10.75,Expense
+9/21/24,Bandcamp,12,Expense
+9/22/24,Depop,35,Expense
+9/23/24,Etsy,23.5,Expense
+9/24/24,Playstation Store,29.99,Expense
+9/25/24,Ticketmaster,85,Expense
+9/26/24,Revolut Top-up,100,Expense
+9/27/24,Patreon,5,Expense
+9/28/24,GOG.com,14.99,Expense
+9/29/24,Vinted,18.75,Expense
+9/30/24,Adobe Creative Cloud,29.99,Expense
+9/1/24,Local Pub,28.5,Expense
+9/2/24,Convenience Store,7.25,Expense
+9/3/24,Food Truck,9.5,Expense
+9/4/24,Florist,22,Expense
+9/5/24,Barber Shop,30,Expense
+9/6/24,Nail Salon,35,Expense
+9/7/24,Car Park,6.5,Expense
+9/8/24,Bike Rental,15,Expense
+9/9/24,Laundromat,8,Expense
+9/10/24,Shoe Repair,18,Expense
+9/11/24,Watch Battery Replacement,12.5,Expense
+9/12/24,Key Cutting,5,Expense
+9/13/24,Photo Printing,10,Expense
+9/14/24,Tailor,45,Expense
+9/15/24,Eyeglass Repair,25,Expense
+9/16/24,Locksmith,75,Expense
+9/17/24,Computer Repair,85,Expense
+9/18/24,Phone Screen Replacement,120,Expense
+9/19/24,Vinyl Record Store,32,Expense
+9/20/24,Thrift Store,17.5,Expense
+9/21/24,Craft Beer Shop,24,Expense
+9/22/24,Organic Food Store,55,Expense
+9/23/24,Vape Shop,30,Expense
+9/24/24,Comic Book Store,22.5,Expense
+9/25/24,Board Game Cafe,15,Expense
+9/26/24,Escape Room,25,Expense
+9/27/24,Karaoke Bar,35,Expense
+9/28/24,Bowling Alley,28,Expense
+9/29/24,Mini Golf,12,Expense
+9/30/24,Arcade,20,Expense
+9/1/24,Gym Protein Shake,5.5,Expense
+9/2/24,Office Vending Machine,2,Expense
+9/3/24,Street Food Vendor,7.5,Expense
+9/4/24,University Bookstore,65,Expense
+9/5/24,Campus Cafe,6.75,Expense
+9/6/24,Library Late Fee,3.5,Expense
+9/7/24,Bike Shop,42,Expense
+9/8/24,Flea Market,28,Expense
+9/9/24,Food Co-op,38.5,Expense
+9/10/24,Yoga Studio,18,Expense
+9/11/24,Dance Class,25,Expense
+9/12/24,Language Learning App,9.99,Expense
+9/13/24,Online Course,49.99,Expense
+9/14/24,Cooking Class,35,Expense
+9/15/24,Wine Tasting,29.99,Expense
+9/16/24,Pottery Workshop,40,Expense
+9/17/24,Stock Sale,500.00,Income
+9/17/24,Karaoke Bar,19.99,Expense
+9/17/24,Rock Climbing Gym,22,Expense
+9/18/24,Surf Shop Rental,35,Expense
+9/19/24,Ski Pass,65,Expense
+9/20/24,Camping Equipment Rental,50,Expense
+9/21/24,Kayak Rental,40,Expense
+9/22/24,Fishing License,25,Expense
+9/23/24,Golf Course Green Fee,45,Expense
+9/24/24,Tennis Court Rental,15,Expense
+9/25/24,Swimming Pool Entry,8,Expense
+9/26/24,Gym Day Pass,12,Expense
+9/27/24,Laser Tag,18,Expense
+9/28/24,Trampoline Park,20,Expense
+9/28/24,Freelancing,350,Income
+9/29/24,Go-Kart Track,30,Expense
+9/30/24,Paintball,35,Expense
+9/1/24,ATM Withdrawal Fee,2.5,Expense
+9/5/24,Bank Transfer Fee,1,Expense
+9/10/24,Foreign Transaction Fee,3.75,Expense
+9/15/24,Credit Card Annual Fee,59,Expense
+9/20/24,Overdraft Fee,35,Expense
+9/25/24,Safe Deposit Box Rental,25,Expense
+9/30/24,Investment Management Fee,50,Expense
+9/2/24,Clothing Alteration,15,Expense
+9/7/24,Watch Strap Replacement,20,Expense
+9/12/24,Shoe Shine,8,Expense
+9/17/24,Suit Dry Cleaning,35,Expense
+9/22/24,Leather Goods Repair,28,Expense
+9/27/24,Jewelry Cleaning,12,Expense
+9/29/24,Rental Income,450,Income
+9/3/24,Tire Rotation,40,Expense
+9/8/24,Oil Change,55,Expense
+9/13/24,Car Detailing,80,Expense
+9/18/24,Windshield Wiper Replacement,25,Expense
+9/23/24,Battery Replacement,120,Expense
+9/28/24,Brake Pad Replacement,150,Expense
+9/4/24,Antivirus Software Renewal,39.99,Expense
+9/9/24,Cloud Storage Subscription,9.99,Expense
+9/14/24,Domain Name Renewal,14.99,Expense
+9/19/24,Website Hosting Fee,12.99,Expense
+9/24/24,VPN Service,8.99,Expense
+9/29/24,Password Manager Subscription,3.99,Expense
+9/5/24,Plant Nursery,32,Expense
+9/10/24,Garden Tools Rental,25,Expense
+9/15/24,Lawn Mowing Service,40,Expense
+9/20/24,Tree Trimming Service,150,Expense
+9/25/24,Pest Control Service,85,Expense
+9/30/24,GPT Subscription,24.99,Expense
+9/30/24,Cafe Mulino,12.99,Expense

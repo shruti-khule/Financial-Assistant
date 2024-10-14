@@ -1,0 +1,271 @@
+Date,Description_x,Amount (EUR),Transaction Type,Transaction_ID,Description_y,Category
+9/1/24,Salary,3500.0,Income,0,Salary,Salary
+9/1/24,Rent,1200.0,Expense,1,Rent,Housing and Utilities
+9/1/24,Electricity Bill,75.5,Expense,2,Electricity Bill,Housing and Utilities
+9/1/24,Water Bill,30.0,Expense,3,Water Bill,Housing and Utilities
+9/1/24,Internet Service,45.0,Expense,4,,
+9/1/24,Mobile Phone Plan,35.0,Expense,5,,
+9/1/24,Gym Membership,50.0,Expense,6,Gym Membership,Subscriptions and Fees
+9/1/24,Netflix Subscription,12.99,Expense,7,Netflix Subscription,Subscriptions and Fees
+9/1/24,Home Insurance,58.33,Expense,8,Home Insurance,Housing and Utilities
+9/1/24,Car Insurance,83.33,Expense,9,Car Insurance,Housing and Utilities
+9/1/24,Health Insurance,150.0,Expense,10,Health Insurance,Housing and Utilities
+9/1/24,Spotify Premium,9.99,Expense,11,Spotify Premium,Subscriptions and Fees
+9/2/24,Café Noir,3.5,Expense,12,Café Noir,Food and Drinks
+9/2/24,Metro Ticket,2.8,Expense,13,Metro Ticket,Transportation
+9/2/24,Lunch at Work Cafeteria,8.5,Expense,14,Lunch at Work Cafeteria,Food and Drinks
+9/2/24,Supermarket Express,22.45,Expense,15,Supermarket Express,Groceries
+9/3/24,Bakery Deluxe,4.75,Expense,16,Bakery Deluxe,Groceries
+9/3/24,Metro Ticket,2.8,Expense,17,Metro Ticket,Transportation
+9/3/24,Lunch at Veggie Corner,11.5,Expense,18,Lunch at Veggie Corner,Food and Drinks
+9/3/24,Pharmacy,15.6,Expense,19,Pharmacy,Health and Wellness
+9/4/24,Café Noir,3.5,Expense,20,Café Noir,Food and Drinks
+9/4/24,Metro Ticket,2.8,Expense,21,Metro Ticket,Transportation
+9/4/24,Lunch at Pasta Paradise,13.75,Expense,22,Lunch at Pasta Paradise,Food and Drinks
+9/4/24,Bookstore,24.99,Expense,23,,
+9/5/24,Bakery Deluxe,4.75,Expense,24,Bakery Deluxe,Groceries
+9/5/24,Metro Ticket,2.8,Expense,25,Metro Ticket,Transportation
+9/5/24,Lunch at Sushi Express,14.5,Expense,26,Lunch at Sushi Express,Food and Drinks
+9/5/24,Cinema Ticket,12.0,Expense,27,Cinema Ticket,Entertainment
+9/6/24,Café Noir,3.5,Expense,28,,
+9/6/24,Metro Ticket,2.8,Expense,29,28 | Lunch at,Food and Drinks
+9/6/24,Metro Ticket,2.8,Expense,29,Metro Ticket,Transportation
+9/6/24,Lunch at Burger Bliss,10.99,Expense,30,Lunch at Burger Bliss,Food and Drinks
+9/6/24,H&M,45.0,Expense,31,H&M,Shopping
+9/7/24,Local Market,35.75,Expense,32,Local Market,Groceries
+9/7/24,Coffee Bean,4.25,Expense,33,Coffee Bean,Food and Drinks
+9/7/24,Pizza Pronto,18.5,Expense,34,Pizza Pronto,Food and Drinks
+9/7/24,Gas Station,65.0,Expense,35,,
+9/8/24,Brunch at Sunny Side Up,22.5,Expense,36,Brunch at Sunny Side Up,Food and Drinks
+9/8/24,Museum Entry,15.0,Expense,37,Museum Entry,Entertainment
+9/8/24,Ice Cream Parlor,6.5,Expense,38,Ice Cream Parlor,Food and Drinks
+9/8/24,Supermarket Express,28.75,Expense,39,Supermarket Express,Groceries
+9/9/24,Café Noir,3.5,Expense,40,Café Noir,Food and Drinks
+9/9/24,Metro Ticket,2.8,Expense,41,Metro Ticket,Transportation
+9/9/24,Lunch at Salad Bar,9.75,Expense,42,Lunch at Salad Bar,Food and Drinks
+9/9/24,Office Supplies Store,13.25,Expense,43,Office Supplies Store,Shopping
+9/10/24,Dividend Payment,275.0,Income,44,Dividend Payment,Investments
+9/10/24,Bakery Deluxe,4.75,Expense,45,Bakery Deluxe,Food and Drinks
+9/10/24,Metro Ticket,2.8,Expense,46,Metro Ticket,Transportation
+9/10/24,Lunch at Taco Fiesta,12.5,Expense,47,Lunch at Taco Fiesta,Food and Drinks
+9/10/24,Dry Cleaning,22.0,Expense,48,,
+9/11/24,Café Noir,3.5,Expense,49,Café Noir,Food and Drinks
+9/11/24,Metro Ticket,2.8,Expense,50,Metro Ticket,Transportation
+9/11/24,Lunch at Pho Delight,11.25,Expense,51,Lunch at Pho Delight,Food and Drinks
+9/11/24,Electronics Store,89.99,Expense,52,Electronics Store,Shopping
+9/12/24,Bakery Deluxe,4.75,Expense,53,Bakery Deluxe,Food and Drinks
+9/12/24,Metro Ticket,2.8,Expense,54,Metro Ticket,Transportation
+9/12/24,Lunch at Greek Taverna,14.75,Expense,55,Lunch at Greek Taverna,Food and Drinks
+9/12/24,Concert Ticket,55.0,Expense,56,Concert Ticket,Entertainment
+9/13/24,Café Noir,3.5,Expense,57,Café Noir,Miscellaneous Expense
+9/13/24,Metro Ticket,2.8,Expense,58,Metro Ticket,Transportation
+9/13/24,Lunch at Indian Spice,13.5,Expense,59,Lunch at Indian Spice,Food and Drinks
+9/13/24,Zara,68.0,Expense,60,Zara,Shopping
+9/14/24,Farmers Market,42.5,Expense,61,Farmers Market,Groceries
+9/14/24,Coffee Bean,4.25,Expense,62,Coffee Bean,Food and Drinks
+9/14/24,Italian Restaurant,35.75,Expense,63,,
+9/14/24,Movie Rental,4.99,Expense,64,Movie Rental,Entertainment
+9/15/24,Freelance Payment,250.0,Income,65,Freelance Payment,Miscellaneous Income
+9/15/24,Brunch at Crepe Corner,19.5,Expense,66,Brunch at Crepe Corner,Food and Drinks
+9/15/24,Botanical Garden Entry,8.0,Expense,67,Botanical Garden Entry,Entertainment
+9/15/24,Gelato Shop,5.5,Expense,68,Gelato Shop,Food and Drinks
+9/15/24,Supermarket Express,31.25,Expense,69,Supermarket Express,Groceries
+9/16/24,Café Noir,3.5,Expense,70,Café Noir,Food and Drinks
+9/16/24,Metro Ticket,2.8,Expense,71,Metro Ticket,Transportation
+9/16/24,Lunch at Sandwich Spot,8.99,Expense,72,Lunch at Sandwich Spot,Food and Drinks
+9/16/24,Stationery Shop,7.5,Expense,73,Stationery Shop,Shopping
+9/17/24,Bakery Deluxe,4.75,Expense,74,Bakery Deluxe,Food and Drinks
+9/17/24,Metro Ticket,2.8,Expense,75,Metro Ticket,Transportation
+9/17/24,Lunch at Wok & Roll,12.25,Expense,76,Lunch at Wok & Roll,Food and Drinks
+9/17/24,Hardware Store,28.5,Expense,77,Hardware Store,Shopping
+9/18/24,Café Noir,3.5,Expense,78,Café Noir,Food and Drinks
+9/18/24,Metro Ticket,2.8,Expense,79,Metro Ticket,Transportation
+9/18/24,Lunch at Falafel House,10.5,Expense,80,Lunch at Falafel House,Food and Drinks
+9/18/24,Sporting Goods Store,75.0,Expense,81,Sporting Goods Store,Shopping
+9/19/24,Bakery Deluxe,4.75,Expense,82,Bakery Deluxe,Food and Drinks
+9/19/24,Metro Ticket,2.8,Expense,83,Metro Ticket,Transportation
+9/19/24,Lunch at Smoothie Bar,7.99,Expense,84,Lunch at Smoothie Bar,Food and Drinks
+9/19/24,Art Supply Shop,32.5,Expense,85,Art Supply Shop,Shopping
+9/20/24,Interest Income,15.5,Income,86,Interest Income,Investments
+9/20/24,Café Noir,3.5,Expense,87,Café Noir,Food and Drinks
+9/20/24,Metro Ticket,2.8,Expense,88,Metro Ticket,Transportation
+9/20/24,Lunch at Ramen House,13.75,Expense,89,Lunch at Ramen House,Food and Drinks
+9/20/24,Uniqlo,55.0,Expense,90,Uniqlo,Food and Drinks
+9/20/24,Uniqlo,55.0,Expense,90,Uniqlo,Shopping
+9/21/24,Local Market,38.25,Expense,91,Local Market,Shopping
+9/21/24,Coffee Bean,4.25,Expense,92,Coffee Bean,Food and Drinks
+9/21/24,Burger Joint,16.5,Expense,93,Burger Joint,Food and Drinks
+9/21/24,Car Wash,15.0,Expense,94,Car Wash,Vehicle Maintenance
+9/22/24,Brunch at Pancake Palace,21.0,Expense,95,Brunch at Pancake Palace,Food and Drinks
+9/22/24,Zoo Admission,20.0,Expense,96,Zoo Admission,Entertainment
+9/22/24,Food Truck Festival,25.5,Expense,97,Food Truck Festival,Food and Drinks
+9/22/24,Food Truck Festival,25.5,Expense,97,Food Truck Festival,Entertainment
+9/22/24,Supermarket Express,26.75,Expense,98,Supermarket Express,Groceries
+9/23/24,Café Noir,3.5,Expense,99,,
+9/23/24,Metro Ticket,2.8,Expense,100,Metro Ticket,Transportation
+9/23/24,Lunch at Veggie Delight,11.25,Expense,101,Lunch at Veggie Delight,Food and Drinks
+9/23/24,Phone Accessories Shop,19.99,Expense,102,Phone Accessories Shop,Shopping
+9/24/24,Bakery Deluxe,4.75,Expense,103,Bakery Deluxe,Food and Drinks
+9/24/24,Metro Ticket,2.8,Expense,104,Metro Ticket,Transportation
+9/24/24,Lunch at Burrito Bowl,12.75,Expense,105,Lunch at Burrito Bowl,Food and Drinks
+9/24/24,Pet Store,45.0,Expense,106,Pet Store,Shopping
+9/25/24,Rental Income,800.0,Income,107,Rental Income,"Salary is not present but as we can see 107 | Rental Income - is under Income - thus 
+  Income would be below - 
+Rental Income would fall under Miscellaneous Income as  Rentals  fall under this category.
+ 
+Miscellaneous Income"
+9/25/24,Café Noir,3.5,Expense,108,Café Noir,Food and Drinks
+9/25/24,Metro Ticket,2.8,Expense,109,Metro Ticket,Transportation
+9/25/24,Lunch at Sushi Train,15.5,Expense,110,Lunch at Sushi Train,Food and Drinks
+9/25/24,Bookstore,32.99,Expense,111,Bookstore,Shopping
+9/26/24,Bakery Deluxe,4.75,Expense,112,Bakery Deluxe,Food and Drinks
+9/26/24,Metro Ticket,2.8,Expense,113,Metro Ticket,Transportation
+9/26/24,Lunch at Poke Place,13.25,Expense,114,Lunch at Poke Place,Food and Drinks
+9/26/24,Theater Ticket,40.0,Expense,115,Theater Ticket,Entertainment
+9/27/24,Café Noir,3.5,Expense,116,Café Noir,Food and Drinks
+9/27/24,Metro Ticket,2.8,Expense,117,Metro Ticket,Transportation
+9/27/24,Lunch at Mediterranean Grill,14.25,Expense,118,Lunch at Mediterranean Grill,Food and Drinks
+9/27/24,Home Decor Store,65.0,Expense,119,Home Decor Store,Shopping
+9/28/24,Farmers Market,45.75,Expense,120,Farmers Market,Groceries
+9/28/24,Coffee Bean,4.25,Expense,121,Coffee Bean,Food and Drinks
+9/28/24,Steakhouse,48.5,Expense,122,Steakhouse,Food and Drinks
+9/28/24,Gas Station,62.0,Expense,123,"Gas is not correct as it should be  none as this will fall under Vehicle maintenance  123, 124 will be assigned under correct categories below",Food and Drinks
+9/28/24,Gas Station,62.0,Expense,123,Gas Station,Food and Drinks
+9/28/24,Gas Station,62.0,Expense,123,Gas Station,Vehicle Maintenance
+9/29/24,Brunch at Avocado Toast,23.5,Expense,124,Brunch at Avocado Toast,Food and Drinks
+9/29/24,Aquarium Visit,25.0,Expense,125,Aquarium Visit,Entertainment
+9/29/24,Ice Cream Truck,4.5,Expense,126,Ice Cream Truck,Food and Drinks
+9/29/24,Supermarket Express,29.75,Expense,127,Supermarket Express,Groceries
+9/30/24,Stock Sale,320.0,Income,128,Stock Sale,Investments
+9/30/24,Café Noir,3.5,Expense,129,Café Noir,Food and Drinks
+9/30/24,Metro Ticket,2.8,Expense,130,Metro Ticket,Transportation
+9/30/24,Lunch at Noodle Bar,11.75,Expense,131,Lunch at Noodle Bar,Food and Drinks
+9/30/24,Office Supplies Store,16.5,Expense,132,Office Supplies Store,Shopping
+9/1/24,Amazon.com,34.99,Expense,133,Amazon.com,Shopping
+9/2/24,Uber,12.5,Expense,134,Uber,Transportation
+9/3/24,Etsy,28.0,Expense,135,Etsy,Shopping
+9/4/24,Steam Games,19.99,Expense,136,Steam Games,Entertainment
+9/5/24,Apple App Store,4.99,Expense,137,Apple App Store,Entertainment
+9/6/24,eBay,41.25,Expense,138,eBay,Shopping
+9/7/24,Deliveroo,22.75,Expense,139,Deliveroo,Food and Drinks
+9/8/24,Google Play Store,2.99,Expense,140,Google Play Store,Entertainment
+9/9/24,AliExpress,15.5,Expense,141,AliExpress,Shopping
+9/10/24,Uber Eats,18.25,Expense,142,Uber Eats,Food and Drinks
+9/11/24,Wayfair,79.99,Expense,143,Wayfair,Shopping
+9/12/24,Booking.com,150.0,Expense,144,Booking.com,Shopping
+9/13/24,ASOS,62.5,Expense,145,ASOS,Shopping
+9/14/24,Airbnb,95.0,Expense,146,Airbnb,Shopping
+9/15/24,Nintendo eShop,59.99,Expense,147,Nintendo eShop,Entertainment
+9/16/24,Zalando,47.25,Expense,148,Zalando,Shopping
+9/17/24,Just Eat,20.5,Expense,149,Just Eat,Food and Drinks
+9/18/24,Humble Bundle,15.0,Expense,150,Humble Bundle,Shopping
+9/19/24,Wish,9.99,Expense,151,Wish,Shopping
+9/20/24,Bolt,10.75,Expense,152,Bolt,Subscriptions and Fees
+9/21/24,Bandcamp,12.0,Expense,153,Bandcamp,Subscriptions and Fees
+9/22/24,Depop,35.0,Expense,154,Depop,Shopping
+9/23/24,Etsy,23.5,Expense,155,Etsy,Shopping
+9/24/24,Playstation Store,29.99,Expense,156,Playstation Store,Shopping
+9/25/24,Ticketmaster,85.0,Expense,157,Ticketmaster,Entertainment
+9/26/24,Revolut Top-up,100.0,Expense,158,Revolut Top-up,Transportation
+9/27/24,Patreon,5.0,Expense,159,Patreon,Shopping
+9/28/24,GOG.com,14.99,Expense,160,GOG.com,Shopping
+9/29/24,Vinted,18.75,Expense,161,Vinted,Shopping
+9/30/24,Adobe Creative Cloud,29.99,Expense,162,"Adobe Creative Cloud is not related to Health and Wellness. However, Florist could be classified under Health and Wellness or Personal Care. Since 'Florist'  was classified under Personal Care, Adobe is classified under 'Miscellaneous Expense'.",Health and Wellness
+9/30/24,Adobe Creative Cloud,29.99,Expense,162,Adobe Creative Cloud,Miscellaneous Expense
+9/1/24,Local Pub,28.5,Expense,163,Local Pub,Food and Drinks
+9/2/24,Convenience Store,7.25,Expense,164,Convenience Store,Food and Drinks
+9/3/24,Food Truck,9.5,Expense,165,Food Truck,Food and Drinks
+9/4/24,Florist,22.0,Expense,166,Florist,Personal Care
+9/5/24,Barber Shop,30.0,Expense,167,Barber Shop,Personal Care
+9/6/24,Nail Salon,35.0,Expense,168,Nail Salon,Personal Care
+9/7/24,Car Park,6.5,Expense,169,Car Park,Transportation
+9/8/24,Bike Rental,15.0,Expense,170,Bike Rental,Transportation
+9/9/24,Laundromat,8.0,Expense,171,Laundromat,Miscellaneous Expense
+9/10/24,Shoe Repair,18.0,Expense,172,Shoe Repair,Repairs and Maintenance
+9/11/24,Watch Battery Replacement,12.5,Expense,173,Watch Battery Replacement,Repairs and Maintenance
+9/12/24,Key Cutting,5.0,Expense,174,Key Cutting,Repairs and Maintenance
+9/13/24,Photo Printing,10.0,Expense,175,Photo Printing,Shopping
+9/14/24,Tailor,45.0,Expense,176,Tailor,Shopping
+9/15/24,Eyeglass Repair,25.0,Expense,177,Eyeglass Repair,Repairs and Maintenance
+9/16/24,Locksmith,75.0,Expense,178,Locksmith,Shopping
+9/17/24,Computer Repair,85.0,Expense,179,Computer Repair,Repairs and Maintenance
+9/18/24,Phone Screen Replacement,120.0,Expense,180,Phone Screen Replacement,Repairs and Maintenance
+9/19/24,Vinyl Record Store,32.0,Expense,181,Vinyl Record Store,Shopping
+9/20/24,Thrift Store,17.5,Expense,182,Thrift Store,Shopping
+9/21/24,Craft Beer Shop,24.0,Expense,183,Craft Beer Shop,Shopping
+9/22/24,Organic Food Store,55.0,Expense,184,Organic Food Store,Shopping
+9/22/24,Organic Food Store,55.0,Expense,184,Organic Food Store,Groceries
+9/23/24,Vape Shop,30.0,Expense,185,Vape Shop,Shopping
+9/24/24,Comic Book Store,22.5,Expense,186,Comic Book Store,Shopping
+9/25/24,Board Game Cafe,15.0,Expense,187,Board Game Cafe,Entertainment
+9/26/24,Escape Room,25.0,Expense,188,Escape Room,Entertainment
+9/27/24,Karaoke Bar,35.0,Expense,189,Karaoke Bar,Entertainment
+9/28/24,Bowling Alley,28.0,Expense,190,Bowling Alley,Entertainment
+9/29/24,Mini Golf,12.0,Expense,191,Mini Golf,Entertainment
+9/30/24,Arcade,20.0,Expense,192,Arcade,Entertainment
+9/1/24,Gym Protein Shake,5.5,Expense,193,Gym Protein Shake,Health and Wellness
+9/2/24,Office Vending Machine,2.0,Expense,194,Office Vending Machine,Miscellaneous Expense
+9/3/24,Street Food Vendor,7.5,Expense,195,Street Food Vendor,Food and Drinks
+9/4/24,University Bookstore,65.0,Expense,196,University Bookstore,Shopping
+9/5/24,Campus Cafe,6.75,Expense,197,Campus Cafe,Food and Drinks
+9/6/24,Library Late Fee,3.5,Expense,198,Library Late Fee,Subscriptions and Fees
+9/7/24,Bike Shop,42.0,Expense,199,,
+9/8/24,Flea Market,28.0,Expense,200,Flea Market,Shopping
+9/9/24,Food Co-op,38.5,Expense,201,Food Co-op,Food and Drinks
+9/10/24,Yoga Studio,18.0,Expense,202,Yoga Studio,Health and Wellness
+9/11/24,Dance Class,25.0,Expense,203,Dance Class,Entertainment
+9/12/24,Language Learning App,9.99,Expense,204,Language Learning App,Subscriptions and Fees
+9/13/24,Online Course,49.99,Expense,205,Online Course,Subscriptions and Fees
+9/14/24,Cooking Class,35.0,Expense,206,Cooking Class,Entertainment
+9/15/24,Wine Tasting,29.99,Expense,207,Wine Tasting,Entertainment
+9/16/24,Pottery Workshop,40.0,Expense,208,Pottery Workshop,Entertainment
+9/17/24,Stock Sale,500.0,Income,209,Stock Sale,Miscellaneous Income
+9/17/24,Karaoke Bar,19.99,Expense,210,Karaoke Bar,Entertainment
+9/17/24,Rock Climbing Gym,22.0,Expense,211,Rock Climbing Gym,Entertainment
+9/18/24,Surf Shop Rental,35.0,Expense,212,Surf Shop Rental,Entertainment
+9/19/24,Ski Pass,65.0,Expense,213,Ski Pass,Entertainment
+9/20/24,Camping Equipment Rental,50.0,Expense,214,Camping Equipment Rental,Entertainment
+9/21/24,Kayak Rental,40.0,Expense,215,Kayak Rental,Entertainment
+9/22/24,Fishing License,25.0,Expense,216,Fishing License,Entertainment
+9/23/24,Golf Course Green Fee,45.0,Expense,217,Golf Course Green Fee,Entertainment
+9/24/24,Tennis Court Rental,15.0,Expense,218,Tennis Court Rental,Entertainment
+9/25/24,Swimming Pool Entry,8.0,Expense,219,Swimming Pool Entry,Entertainment
+9/26/24,Gym Day Pass,12.0,Expense,220,Gym Day Pass,Entertainment
+9/27/24,Laser Tag,18.0,Expense,221,Laser Tag,Entertainment
+9/28/24,Trampoline Park,20.0,Expense,222,Trampoline Park,Entertainment
+9/28/24,Freelancing,350.0,Income,223,Freelancing,Miscellaneous Income
+9/29/24,Go-Kart Track,30.0,Expense,224,Go-Kart Track,Entertainment
+9/30/24,Paintball,35.0,Expense,225,Paintball,Miscellaneous Expense
+9/1/24,ATM Withdrawal Fee,2.5,Expense,226,ATM Withdrawal Fee,Subscriptions and Fees
+9/5/24,Bank Transfer Fee,1.0,Expense,227,Bank Transfer Fee,Subscriptions and Fees
+9/10/24,Foreign Transaction Fee,3.75,Expense,228,Foreign Transaction Fee,Miscellaneous Expense
+9/15/24,Credit Card Annual Fee,59.0,Expense,229,Credit Card Annual Fee,Subscriptions and Fees
+9/20/24,Overdraft Fee,35.0,Expense,230,Overdraft Fee,Subscriptions and Fees
+9/25/24,Safe Deposit Box Rental,25.0,Expense,231,Safe Deposit Box Rental,Housing and Utilities
+9/30/24,Investment Management Fee,50.0,Expense,232,Investment Management Fee,Subscriptions and Fees
+9/2/24,Clothing Alteration,15.0,Expense,233,Clothing Alteration,Shopping
+9/7/24,Watch Strap Replacement,20.0,Expense,234,Watch Strap Replacement,Shopping
+9/12/24,Shoe Shine,8.0,Expense,235,Shoe Shine,Shopping
+9/17/24,Suit Dry Cleaning,35.0,Expense,236,Suit Dry Cleaning,Shopping
+9/22/24,Leather Goods Repair,28.0,Expense,237,Leather Goods Repair,Shopping
+9/27/24,Jewelry Cleaning,12.0,Expense,238,Jewelry Cleaning,Shopping
+9/29/24,Rental Income,450.0,Income,239,,
+9/3/24,Tire Rotation,40.0,Expense,240,Tire Rotation,Vehicle Maintenance
+9/8/24,Oil Change,55.0,Expense,241,Oil Change,Vehicle Maintenance
+9/13/24,Car Detailing,80.0,Expense,242,Car Detailing,Vehicle Maintenance
+9/18/24,Windshield Wiper Replacement,25.0,Expense,243,Windshield Wiper Replacement,Vehicle Maintenance
+9/23/24,Battery Replacement,120.0,Expense,244,Battery Replacement,Vehicle Maintenance
+9/28/24,Brake Pad Replacement,150.0,Expense,245,Brake Pad Replacement,Vehicle Maintenance
+9/4/24,Antivirus Software Renewal,39.99,Expense,246,Antivirus Software Renewal,Subscriptions and Fees
+9/9/24,Cloud Storage Subscription,9.99,Expense,247,Cloud Storage Subscription,Subscriptions and Fees
+9/14/24,Domain Name Renewal,14.99,Expense,248,Domain Name Renewal,Subscriptions and Fees
+9/19/24,Website Hosting Fee,12.99,Expense,249,Website Hosting Fee,Subscriptions and Fees
+9/24/24,VPN Service,8.99,Expense,250,VPN Service,Shopping
+9/29/24,Password Manager Subscription,3.99,Expense,251,Password Manager Subscription,Entertainment
+9/5/24,Plant Nursery,32.0,Expense,252,,
+9/10/24,Garden Tools Rental,25.0,Expense,253,Garden Tools Rental,Repairs and Maintenance
+9/15/24,Lawn Mowing Service,40.0,Expense,254,Lawn Mowing Service,Housing and Utilities
+9/20/24,Tree Trimming Service,150.0,Expense,255,Tree Trimming Service,Housing and Utilities
+9/25/24,Pest Control Service,85.0,Expense,256,Pest Control Service,Housing and Utilities
+9/30/24,GPT Subscription,24.99,Expense,257,GPT Subscription,Entertainment
+9/30/24,Cafe Mulino,12.99,Expense,258,Cafe Mulino,Food and Drinks
